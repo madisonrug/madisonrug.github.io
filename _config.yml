@@ -1,0 +1,13 @@
+# Site settings
+title: Madison R User Group
+email: madisonrug@googlegroups.com
+description: > # this means to ignore newlines until "baseurl:"
+  Website and blog for the Madison R User Group. 
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://madisonrug.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
